@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "Ekran görüntüsü 2024-08-08 003702.png"alt="Hi, I'm LAITH BADAWİ 👋 I'm a 🚀 Electrical & Electronics Engineer 🚀 I ❤️ Programming ❤️ ">
+  <img src= "(https://www.vecteezy.com/vector-art/25399762-programming-coding-icon-logo-design-vector-template)" >
 </p>
 
 <h1 align="center">Hi there 👋, I'm Laith Badawi</h1>
