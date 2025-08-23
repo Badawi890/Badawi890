@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= alt="Hi, I'm LAITH BADAWİ 👋 I'm a 🚀 Electrical & Electronics Engineer 🚀 I ❤️ Programming ❤️ ">
+  <img src= "Ekran görüntüsü 2024-08-08 003702.png"alt="Hi, I'm LAITH BADAWİ 👋 I'm a 🚀 Electrical & Electronics Engineer 🚀 I ❤️ Programming ❤️ ">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Laith Badawi</h1>
@@ -13,7 +13,8 @@
 - 💻 Python ve Java ile yazılım geliştiriyorum  
 - 🔍 Yeni teknolojilere meraklıyım  
 - 🌐 Yapay Zeka, Otomasyon ve Gömülü Sistemlere ilgi duyuyorum  
-- 📫 Bana ulaşmak için: (www.linkedin.com/in/laith-badawi-96b27526b)(eng.laith2024badawi@gmail.com)(https://www.instagram.com/eng.laith2024badawi/)
+- 📫 Bana ulaşmak için: (www.linkedin.com/in/laith-badawi-96b27526b)(eng.laith2024badawi@gmail.com)
+(https://www.instagram.com/eng.laith2024badawi/)
 
 ---
 
