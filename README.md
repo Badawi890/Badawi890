@@ -1,6 +1,3 @@
-<p align="center">
-  <img = "(https://www.vecteezy.com/vector-art/25399762-programming-coding-icon-logo-design-vector-template)" >
-</p>
 
 <h1 align="center">Hi there 👋, I'm Laith Badawi</h1>
 <h3 align="center">🚀 Electrical & Electronics Engineer | 💻 Python & Java Developer</h3>
