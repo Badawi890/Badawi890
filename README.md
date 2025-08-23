@@ -12,6 +12,7 @@
 - 🌐 Yapay Zeka, Otomasyon ve Elektrik dağıtım ilgi duyuyorum  
 - 📫 Bana ulaşmak için: (www.linkedin.com/in/laith-badawi-96b27526b)(eng.laith2024badawi@gmail.com)
 (https://www.instagram.com/eng.laith2024badawi/)
+(https://github.com/Badawi890)
 
 ---
 
