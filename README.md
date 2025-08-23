@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "(https://www.vecteezy.com/vector-art/25399762-programming-coding-icon-logo-design-vector-template)" >
+  <img = "(https://www.vecteezy.com/vector-art/25399762-programming-coding-icon-logo-design-vector-template)" >
 </p>
 
 <h1 align="center">Hi there 👋, I'm Laith Badawi</h1>
@@ -23,15 +23,6 @@
 - **Programlama Dilleri:** Python, Java
 - **Veritabanı:** MySQL, SQLite
 - **Araçlar & Teknolojiler:** visual Studio Code, Arduino, Autocad, Ms Office 365, Apache NetBeans IDE, Matlab,Proteus 8 Demonstration.
-
----
-
-## 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laithbadawi&show_icons=true&theme=github_dark" alt="Laith's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laithbadawi&theme=github-dark&hide_border=true" height="180"/>
-</p>
 
 ---
 
