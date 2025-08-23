@@ -28,6 +28,14 @@
 
 ---
 
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Badawi890&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badawi890&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🌐Social Media & Links:
 
 <p align="center">
