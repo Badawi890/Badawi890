@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Badawi890/Badawi890/raw/main/assets/github.gif" alt="Hi, I'm LAITH BADAWİ 👋 I'm a 🚀 Electrical & Electronics Engineer 🚀 I ❤️ Programming ❤️ ">
+  <img src= alt="Hi, I'm LAITH BADAWİ 👋 I'm a 🚀 Electrical & Electronics Engineer 🚀 I ❤️ Programming ❤️ ">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Laith Badawi</h1>
