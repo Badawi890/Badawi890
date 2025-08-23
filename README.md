@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler:
+## 🛠️ The Technologies I Use:
 
 - **Programming Languages:** Python, Java
 - **Database:** MySQL, SQLite
