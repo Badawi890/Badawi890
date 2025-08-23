@@ -7,28 +7,28 @@
 
 ---
 
-## 🧠 Hakkımda
+## 🧠  About me:
 
-- 🎓 Elektrik ve Elektronik Mühendisiyim  
-- 💻 Python ve Java ile yazılım geliştiriyorum  
-- 🔍 Yeni teknolojilere meraklıyım  
-- 🌐 Yapay Zeka, Otomasyon ve Elektrik dağıtım ilgi duyuyorum  
-- 📫 Bana ulaşmak için: (www.linkedin.com/in/laith-badawi-96b27526b)
+- 🎓 I am an Electrical and Electronics Engineer.
+- 💻 I develop software with Python and Java 
+- 🔍 I'm interested in new technologies
+- 🌐 I am interested in AI , Automation and Electricity Distribution.
+- 📫 To reach me: (www.linkedin.com/in/laith-badawi-96b27526b)
 (eng.laith2024badawi@gmail.com)
 (https://www.instagram.com/eng.laith2024badawi/)
 
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🛠️ Kullandığım Teknolojiler:
 
-- **Programlama Dilleri:** Python, Java
-- **Veritabanı:** MySQL, SQLite
-- **Araçlar & Teknolojiler:** visual Studio Code, Arduino, Autocad, Ms Office 365, Apache NetBeans IDE, Matlab,Proteus 8 Demonstration.
+- **Programming Languages:** Python, Java
+- **Database:** MySQL, SQLite
+- **Tools & Technologies:** Visual Studio Code, Arduino, Autocad, Ms Office 365, Apache NetBeans IDE, Matlab,Proteus 8 Demonstration.
 
 ---
 
-## 🌐 Sosyal Medya & Bağlantılar
+## 🌐Social Media & Links:
 
 <p align="center">
   <a href="mailto:eng.laith2024badawi@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"/></a>
