@@ -23,7 +23,6 @@
 ## 🛠️ The Technologies I Use:
 
 - **Programming Languages:** Python, Java
-- **Database:** MySQL, SQLite
 - **Tools & Technologies:** Visual Studio Code, Arduino, Autocad, Ms Office 365, Apache NetBeans IDE, Matlab,Proteus 8 Demonstration.
 
 ---
